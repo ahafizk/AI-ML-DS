@@ -2,5 +2,5 @@ I have explored data science projects to hone my skills. I started with very nov
 
 List of projects:
 
-    1. [Titanic](https://www.kaggle.com/c/titanic)
+   1. [Titanic](https://www.kaggle.com/c/titanic)
 
